@@ -1,0 +1,7 @@
+問1
+(1)ネットワークACL
+(2)DNSレベルのファイアウォール
+　DNS名前解決
+　ドメイン登録
+(3)CloudFront
+(4)CloudFront
