@@ -1,0 +1,7 @@
+問
+(1)ElastiCache
+(2)RDS
+(3)Elasticache
+(4)Amazon DynamoDB
+(5)DB2
+(6)RDS

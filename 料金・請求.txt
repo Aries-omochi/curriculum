@@ -1,0 +1,8 @@
+問
+(1)スケジュールドリザーブドインスタンス
+(2)リザーブド支払いモデル
+(3)1時間15分20秒
+(4)IAM
+(5)部署ごとにAWSアカウントを作成して、AWS Organizationsによるマルチアカウント管理を実行する
+(6)Cost Explorer
+(7)AWS Pricing Calculator（AWS料金計算ツール）

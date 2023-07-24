@@ -1,0 +1,8 @@
+問
+(1)AWS CodeBuild
+(2)AWS CodeCommit
+(3)Amazon SNS
+(4)Amazon SQS
+(5)CloudWatchとSQS
+(6)Amazon SQS
+Amazon SES

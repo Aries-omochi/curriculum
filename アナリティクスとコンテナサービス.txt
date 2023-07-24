@@ -1,0 +1,6 @@
+問
+(1)Amazon Athena
+(2)Amazon QuickSight
+(3)Amazon ECS
+(4)ECS
+S3

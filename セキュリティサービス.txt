@@ -1,0 +1,8 @@
+問
+(1)AWS WAF
+(2)Amazon Inspector
+(3)AWS Shield
+AWS WAF
+(4)AWS CloudHSM
+(5)Amazon Cognito
+(6)AWS Artifact
